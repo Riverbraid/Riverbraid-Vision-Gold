@@ -1,0 +1,61 @@
+{
+  "version": "1.5.0",
+  "agents": {
+    "Riverbraid-Action-Gold": {
+      "signature_hash": "9a054758428aaeb5abeb93a7b92a477287b5f31402aa7768ff22c56aa8b5d792",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Audio-Gold": {
+      "signature_hash": "5fe1eb0d788568c3d4e8f1995709ef0874bf7b79e6c47043d55d16de4e26cb15",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Crypto-Gold": {
+      "signature_hash": "a39b5571348181a20f98fb0871b87c9159f6863bec15989a09eff78b3ee36035",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-GPG-Gold": {
+      "signature_hash": "b698bad0cedae8a3b984972efa49388c28d233cc1d76f2713330e214fb80976c",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Harness-Gold": {
+      "signature_hash": "d3f7f1d818945547ddce0518c3eb2f06f5cb74e9954d900422d9b2341cc254a8",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Integration-Gold": {
+      "signature_hash": "6c7f87585e9eedf6b4d7b17146f65312bdd86b645687bde4885908720de24f36",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Interface-Gold": {
+      "signature_hash": "f6fe2478c42736e62953d7769047e4e6c4611906eb807175c3d9f24e4c153440",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Judicial-Gold": {
+      "signature_hash": "8f3bf46a6dd0580c01da4005aefc3dfa0880a06cc39db3b9d3682c20da8918e7",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Manifest-Gold": {
+      "signature_hash": "66847cee0b1c9b0541e92441784a635c4d3f2ec2fcdb99971bcfd6d029497bdc",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Memory-Gold": {
+      "signature_hash": "a8977d836b48f0770e0d435f0268039e8c1c5efe95787430ec3b000c4195fa93",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Refusal-Gold": {
+      "signature_hash": "5b42324de36c14d91d76f00f868d24536d790a056400935496daedff98fb5b7a",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Safety-Gold": {
+      "signature_hash": "3778dcf175edc941f28a6e27990f5220302d3093f1c18063edbbcca8c9a1764d",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Temporal-Gold": {
+      "signature_hash": "fd7b93536af654312d6e7d2dec604b2f57776a8d5e458db53243e7f224bc84d0",
+      "status": "VERIFIED"
+    },
+    "Riverbraid-Vision-Gold": {
+      "signature_hash": "26029ed0faf15ac7c341865a6876a266911ec4c96323d273ad8635ba9f9db396",
+      "status": "VERIFIED"
+    }
+  }
+}
