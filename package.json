@@ -1,11 +1,12 @@
 {
-  "name": "riverbraid-node",
+  "name": "riverbraid-vision-gold",
   "version": "1.5.0",
   "private": true,
-  "type": "module",
+  "type": "commonjs",
+  "description": "Deterministic Riverbraid-Vision-Gold substrate.",
   "scripts": {
-    "snapshot": "node bin/run-vectors.cjs snapshot",
-    "verify": "node bin/run-vectors.cjs verify"
+    "snapshot": "node run-vectors.cjs snapshot",
+    "verify": "node run-vectors.cjs verify"
   },
   "engines": {
     "node": "20.11.0"
