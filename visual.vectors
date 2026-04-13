@@ -1,0 +1,12 @@
+{
+  "version": "1.5.0",
+  "anchor": "de2062",
+  "signal": "VISUAL_CHANNEL",
+  "acceptedFormats": ["RGB_24", "RGBA_32", "GRAY_8"],
+  "acceptedColorSpaces": ["sRGB", "LINEAR"],
+  "constraints": { "maxWidth": 4096, "maxHeight": 4096, "minWidth": 16, "minHeight": 16, "maxFrameRate": 60 },
+  "vectors": [
+    { "id": "VV_001", "label": "SD_MONO", "width": 640, "height": 480, "format": "GRAY_8" },
+    { "id": "VV_002", "label": "HD_COLOR", "width": 1920, "height": 1080, "format": "RGB_24" }
+  ]
+}
