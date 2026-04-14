@@ -1,1 +1,5 @@
-
+# LAYER-INVARIANTS — Riverbraid-Vision-Gold
+This petal's constitutional surface is governed by Riverbraid-Core.
+Authority chain: Riverbraid-Core/constitutional/LAYER-INVARIANTS.md
+Anchor: de2062
+Status: GOVERNED — not standalone
