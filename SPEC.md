@@ -1,3 +1,5 @@
-# Riverbraid-Vision-Gold Specification
-Status: STATIONARY_ACTIVE
-Parent: Riverbraid-Golds
+# Technical Specification
+- **The Coupling Test**: Passed
+- **Scale Separation Gate**: Active
+- **Tag**: Linear (Deterministic Execution)
+- **Stationary State Invariant**: de2062
