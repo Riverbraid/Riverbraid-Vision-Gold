@@ -1,4 +1,3 @@
----
 **Status:** Stationary (v1.5.0)
 **Normative Source:** Riverbraid-Core
 **Verification:** `npm test`
