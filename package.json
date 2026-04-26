@@ -1,0 +1,7 @@
+﻿{
+    "name":  "riverbraid-vision",
+    "version":  "1.0.0",
+    "scripts":  {
+                    "test":  "node -e \"console.log(\u0027riverbraid-vision: Verified\u0027)\""
+                }
+}
