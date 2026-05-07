@@ -1,0 +1,33 @@
+{
+  "schema": "riverbraid.gold.protocol.steps",
+  "version": "1.0.0",
+  "repo": "Riverbraid-Vision-Gold",
+  "ring": 1,
+  "petal": "Vision-Gold",
+  "invariant": "VISION_STATIONARY",
+  "claim_boundary": "declared-conditions-only",
+  "canonical_input": {
+    "repo": "Riverbraid-Vision-Gold",
+    "petal": "Vision-Gold",
+    "ring": 1,
+    "invariant": "VISION_STATIONARY"
+  },
+  "expected_result": true,
+  "steps": [
+    "receive canonical stationarity object",
+    "require repo to equal Riverbraid-Vision-Gold",
+    "require petal to equal Vision-Gold",
+    "require ring to equal 1",
+    "require invariant to equal VISION_STATIONARY",
+    "emit deterministic verification output"
+  ],
+  "forbidden": [
+    "Date",
+    "Math.random",
+    "randomUUID",
+    "timestamps",
+    "absolute paths",
+    "environment dependent values",
+    "external lookups"
+  ]
+}
